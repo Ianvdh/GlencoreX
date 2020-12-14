@@ -1,0 +1,22 @@
+;aiu;
+
+[General]
+MessageTitle = GlencoreX Update
+MessageBody = Glencore LIO04 Update available
+MessageExpirationDate = 31/12/2020
+MessageImageURL = https://github.com/Ianvdh/GlencoreX/blob/main/GlencoreX.exe
+MessageButtonText = Download
+
+[GlencoreX Update]
+Name = GlencoreX LIO04 Update
+ProductVersion = 2.2
+URL = https://github.com/Ianvdh/GlencoreX/blob/main/GlencoreX.exe
+Size = 462848
+ReleaseDate = 14/12/2020
+SHA256 = B50ADFB21C79D1B9842F2A7A0B09FE273FA050637040810816B4286DA0E8F892
+MD5 = 4ce8c741b4d68694e849cb92445233b2
+ServerFileName = GlencoreX.exe
+FilePath = [APPDIR]YourApplication.exe
+Version = 2.2
+UpdatedApplications = GlencoreX LIO04[2.0-2.2]
+AutoCloseApplication = [APPDIR]YourApplication.exe|;GlencoreX Updater
